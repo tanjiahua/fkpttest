@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="testCase.fkpt.test1001.*" />
+          <option value="testCase.fkpt.Test1001.*" />
+          <option value="testCase.fkpt.Test1001.szqbfk" />
+          <option value="testcase.testmodel.test_audit.open_id" />
+          <option value="testcase.token.Token.test_token" />
+          <option value="testcase.token.Token.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
